@@ -13,7 +13,7 @@
 
 ### Software Scope
 
-**HTML / CSS / JavaScript**
+Programming languages: **HTML / CSS / JavaScript**
 
 I have experience with Graphic design tools of Adobe: **PS / Ai**
 Been a photographer, still am, but for my personal preferences.
