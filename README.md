@@ -29,7 +29,7 @@ that can bend things the way I decide to.
 
 ### Socials
 
-Facebook / Instagram / LinkedIn
+[Facebook](https://www.facebook.com/vaidas.buslavicius) / [Instagram](https://www.instagram.com/atleiskite_mokausi/) / [LinkedIn](https://www.linkedin.com/in/vaidas-buslavi%C4%8Dius-2a6b4823b/)
 
 ### Gaming section
 
