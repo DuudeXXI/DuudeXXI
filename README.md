@@ -1,16 +1,45 @@
-### Hi there 👋
+## Welcome Traveler!
 
-<!--
-**DuudeXXI/DuudeXXI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Take a Look Around 
 
-Here are some ideas to get you started:
+#### In General
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - I'm currently studying JavaScript and its frameworks.
+ - By studying I mean **~38%** of week.
+ - Don't worry, sleeping full 8 hours a day **~32%**.
+ - Physical activity shares about **~7%**.
+ - Remaining part is mostly being lazzzy...
+ - Just kidding, I'm also working, but work-time mixes with studying Sooo...
+ - Besides, as a hobby I'm selling... Anything... depends on situation,
+  but at the moment I'm managing online retail store. Damn those logistics...
+
+#### Software Scope
+
+**HTML / CSS / JavaScript**
+
+I have experience with Graphic design tools of Adobe: **PS / Ai**
+Been a photographer, still am, but for my personal preferences.
+
+#### Scope of future accending order
+
+I see myself as a web-developer working with retail market clients.
+I'm general **Love** being involved into design atmosphere.
+
+I have bright idea of being a CEO of my own Web-development company,
+I'm just used to taking responsibilities and I **Love** being the one
+that can bend things the way I decide to.
+
+#### Socials
+
+Facebook / Instagram / LinkedIn
+
+#### Gaming section
+
+I used to play competitive games but right now I just like to spend
+that time on games in a dumbest way possible, use it as a playground
+So if ou want to have dumb time I might be down for it.
+
+Steam:
+
+EpicGames:
+
