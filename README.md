@@ -1,4 +1,4 @@
-## Welcome Traveler Take a Look Around!
+## Welcome Traveler, Take a Look Around!
 
 ### In General
 
