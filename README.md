@@ -34,8 +34,8 @@ Facebook / Instagram / LinkedIn
 ### Gaming section
 
 I used to play competitive games but right now I just like to spend
-that time on games in a dumbest way possible, use it as a playground
-So if ou want to have dumb time I might be down for it.
+that time on games in a dumbest way possible, use it as a playground.
+So if you want to have dumb time I might be down for it.
 
 Steam:
 
