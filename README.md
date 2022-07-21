@@ -26,7 +26,7 @@ I'm general **Love** being involved into design atmosphere.
 
 I have bright idea of being a CEO of my own Web-development company,
 I'm just used to taking responsibilities and I **Love** being the one
-that can bend things the way I decide to.
+that can try to bend things the way I decide to.
 
 ### Socials
 
