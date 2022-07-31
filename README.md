@@ -19,7 +19,7 @@ I have experience with Graphic design tools of Adobe: **PS / Ai**
 
 Been a photographer, still am, but for my personal preferences.
 
-### Scope of future *accending order*
+### Scope of future
 
 I see myself as a web-developer working with retail market clients.
 In general I **Love** being involved into design atmosphere.
