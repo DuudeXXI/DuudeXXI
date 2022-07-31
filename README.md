@@ -22,7 +22,7 @@ Been a photographer, still am, but for my personal preferences.
 ### Scope of future *accending order*
 
 I see myself as a web-developer working with retail market clients.
-I'm general **Love** being involved into design atmosphere.
+In general I **Love** being involved into design atmosphere.
 
 I have bright idea of being a CEO of my own Web-development company,
 I'm just used to taking responsibilities and I **Love** being the one
