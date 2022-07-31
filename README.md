@@ -24,8 +24,8 @@ Been a photographer, still am, but for my personal preferences.
 I see myself as a web-developer working with retail market clients.
 In general I **Love** being involved into design atmosphere.
 
-Proposals to myself in life could change if I find a company in which I feel fulfiled
-I'm just used to being flexible as Bruce Lee said **"Be a Water My Friend"** find happiness
+Proposals to myself in life could change if I find a company in which I feel fulfiled,
+I'm just used to being flexible, as Bruce Lee said **"Be a Water My Friend"** find happiness
 In places you might not thought about, because in reality it's actually impossible to
 know where is your place it's just state of mind we put ourselves in. IMHO.
 
