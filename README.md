@@ -36,6 +36,7 @@ I'm just used to taking responsibilities and I **Love** being the one
 that can try to bend things the way I decide to.
 
 ### Socials
+[Codewars](https://www.codewars.com/users/DuudeXXI/badges/micro)
 
 [Facebook](https://www.facebook.com/vaidas.buslavicius) / [Instagram](https://www.instagram.com/atleiskite_mokausi/) / [LinkedIn](https://www.linkedin.com/in/vaidas-buslavi%C4%8Dius-2a6b4823b/)
 
