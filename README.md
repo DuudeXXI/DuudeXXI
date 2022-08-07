@@ -37,7 +37,7 @@ that can try to bend things the way I decide to.
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/vaidas-buslavi%C4%8Dius-2a6b4823b/"> <img source="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vaidas-buslavi%C4%8Dius-2a6b4823b/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 [Facebook](https://www.facebook.com/vaidas.buslavicius) / [Instagram](https://www.instagram.com/atleiskite_mokausi/)
 
 ### Gaming section
