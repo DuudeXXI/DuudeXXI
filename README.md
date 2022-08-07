@@ -41,7 +41,7 @@ that can try to bend things the way I decide to.
 
 ### Gaming section
 
-[Codewars](https://www.codewars.com/users/DuudeXXI/badges/micro)
+![image](https://www.codewars.com/users/DuudeXXI/badges/micro)
 
 I used to play competitive games but right now I just like to spend
 that time on games in a dumbest way possible, use it as a playground.
