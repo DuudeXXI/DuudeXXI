@@ -2,14 +2,12 @@
 
 ### In General
 
- - I'm currently studying JavaScript and its frameworks.
+ - I'm currently studying JavaScript Css, Html, React
  - By studying I mean **~38%** of week.
  - Don't worry, sleeping full 8 hours a day **~32%**.
  - Physical activity shares about **~7%**.
  - Remaining part is mostly being lazzzy...
  - Just kidding, I'm also working, but work-time mixes with studying Sooo...
- - Besides, as a hobby I'm selling... Anything... depends on situation,
-  but at the moment I'm managing online retail store. Damn those logistics...
 
 ### Software Scope
 
