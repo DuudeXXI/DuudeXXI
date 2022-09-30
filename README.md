@@ -35,16 +35,3 @@ that can try to bend things the way I decide to.
 <a href="https://www.instagram.com/atleiskite_mokausi/">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
-### Gaming section
-
-![image](https://www.codewars.com/users/DuudeXXI/badges/micro)
-
-I used to play competitive games but right now I just like to spend
-that time on games in a dumbest way possible, use it as a playground.
-So if you want to have dumb time I might be down for it.
-
-Steam:
-
-EpicGames:
-
