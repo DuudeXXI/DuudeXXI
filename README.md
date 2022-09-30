@@ -21,7 +21,7 @@ know where is your place it's just state of mind we put ourselves in. IMHO.
 But for now...
 
 I have bright idea of being a CEO of my own Web-development company,
-I'm just used to taking responsibilities and I **Love** being the one
+Its just that I'm used to taking responsibilities and I **Love** being the one
 that can try to bend things the way I decide to.
 
 ### Socials
