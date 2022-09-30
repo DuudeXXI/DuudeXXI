@@ -2,7 +2,7 @@
 
 ### Software Scope
 
-Programming languages: **HTML / CSS / JavaScript**
+Programming languages: **HTML / CSS / JavaScript / React.js**
 
 I have experience with Graphic design tools of Adobe: **PS / Ai**
 
