@@ -1,14 +1,5 @@
 ## Welcome Traveler, Take a Look Around!
 
-### In General
-
- - I'm currently studying JavaScript Css, Html, React
- - By studying I mean **~38%** of week.
- - Don't worry, sleeping full 8 hours a day **~32%**.
- - Physical activity shares about **~7%**.
- - Remaining part is mostly being lazzzy...
- - Just kidding, I'm also working, but work-time mixes with studying Sooo...
-
 ### Software Scope
 
 Programming languages: **HTML / CSS / JavaScript**
