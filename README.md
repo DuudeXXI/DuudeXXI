@@ -7,8 +7,6 @@
 ![Scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Been a photographer, still am, but for my personal preferences.
-
 ### Scope of future
 
 I see myself as a web-developer working with retail market clients.
@@ -36,3 +34,10 @@ that can try to bend things the way I decide to.
 <a href="https://www.instagram.com/atleiskite_mokausi/">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+### Random
+
+Photographer, but mostly for my personal preferences.
+Learning MTB mostly downhill. At the moment with hardtail **Cannondale trail 4**
+Sauna person.
+
