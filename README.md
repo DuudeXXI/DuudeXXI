@@ -21,7 +21,7 @@ But for now...
 
 I have bright idea of being a CEO of my own Web-development company,
 Its just that I'm used to taking responsibilities and I **Love** being the one
-that can try to bend things the way I decide to.
+that can at least try to turn things the way I see best.
 
 ### Socials
 
