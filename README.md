@@ -37,7 +37,7 @@ that can at least try to turn things the way I see best.
 
 ### Random
 
-Photographer, but mostly for my personal preferences.
-Learning MTB mostly downhill. At the moment with hardtail **Cannondale trail 4**
-Sauna person.
+Photographer, but mostly for my personal preferences. <br/>
+Learning MTB mostly downhill. At the moment with hardtail **Cannondale trail 4**<br/>
+Sauna person.<br/>
 
