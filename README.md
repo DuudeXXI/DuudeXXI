@@ -19,8 +19,13 @@ know where is your place it's just state of mind we put ourselves in. IMHO.
 
 But for now...
 
-I have bright idea of being a CEO of my own Web-development company,
-Its just that I'm used to taking responsibilities and I **Love** being the one
+I have bright idea of being a leader of Web-development company, but
+as a starter I don't expect to be someone big as I need lots of experience, but
+To me it's very important to have a possionate team leader from which I could learn.
+
+Why I wish to be a leader? 
+
+I'm just used to taking responsibilities and I **Love** being the one
 that can at least try to turn things the way I see best.
 
 ### Socials
