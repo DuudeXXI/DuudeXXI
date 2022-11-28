@@ -2,11 +2,11 @@
 
 ### Software Scope
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>
+![Scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)<br>
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>
 
 ### Scope of future
 
@@ -43,7 +43,7 @@ that can at least try to turn things the way I see best.
 
 ### Random
 
-Photographer, but mostly for my personal preferences. <br/>
-Learning MTB mostly downhill. At the moment with hardtail **Cannondale trail 4**<br/>
+Photographer, but mostly for my personal preferences. <br>
+Learning MTB Enduro/Trail. At the moment with hardtail **Cannondale trail 4**<br>
 Sauna person.<br/>
 
