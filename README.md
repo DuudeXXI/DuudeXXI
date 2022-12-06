@@ -1,4 +1,4 @@
-## Welcome Traveler, Take a Look Around!
+## Welcome Traveler,<br>Take a Look Around!
 
 ### Software Scope
 
@@ -14,17 +14,17 @@ I see myself as a web-developer working with retail market clients.
 In general I **Love** being involved into design atmosphere.
 
 Proposals to myself in life could change if I find a company in which I feel fulfiled,
-I'm just used to being flexible, as Bruce Lee said **"Be a Water My Friend"** find happiness
+I'm used to be flexible, as Bruce Lee said **"Be a Water My Friend"** find happiness
 In places you might not thought about, because in reality it's actually impossible to
-know where is your place it's just state of mind we put ourselves in. IMHO.
+know where your place is, it's just a state of mind we put ourselves in. IMHO.
 
 But for now...
 
 I have bright idea of being a leader of Web-development company, but
-as a starter I don't expect to be someone big as I need lots of experience, but
-To me it's very important to have a possionate team leader from which I could learn.
+as a starter, I don't expect to be someone big as I need lots of experience, so
+to me it's very important to have a possionate team leader from which I could learn.
 
-Why I wish to be a leader? 
+Why I wish to be a leader?
 
 I'm just used to taking responsibilities and I **Love** being the one
 that can at least try to turn things the way I see best.
@@ -45,5 +45,5 @@ that can at least try to turn things the way I see best.
 
 Photographer, but mostly for my personal preferences. <br>
 Learning MTB Enduro/Trail. At the moment with hardtail **Cannondale trail 4**<br>
-Sauna person.<br/>
+Sauna person.<br>
 
