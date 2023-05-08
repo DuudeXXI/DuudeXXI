@@ -10,13 +10,12 @@
 
 ### Scope of future
 
-I see myself as a web-developer working with retail market clients.
+I see myself as a web-developer fro something inovative.
 In general I **Love** being involved into design atmosphere.
 
 Proposals to myself in life could change if I find a company in which I feel fulfiled,
 I'm used to be flexible, as Bruce Lee said **"Be a Water My Friend"** find happiness
-In places you might not thought about, because in reality it's actually impossible to
-know where your place is, it's just a state of mind we put ourselves in. IMHO.
+In places you might not thought about.
 
 But for now...
 
@@ -43,7 +42,7 @@ that can at least try to turn things the way I see best.
 
 ### Random
 
-Photographer, but mostly for my personal preferences. <br>
-Learning MTB Enduro/Trail. At the moment with hardtail **Cannondale trail 4**<br>
+Doing photography, but mostly for my personal preferences. <br>
+Volleyball Enjoyer.<br>
 Sauna person.<br>
 
