@@ -6,11 +6,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>
 ![Scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)<br>
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>
 
 ### Scope of future
 
-I see myself as a web-developer fro something inovative.
+I see myself as a web-developer for something inovative.
 In general I **Love** being involved into design atmosphere.
 
 Proposals to myself in life could change if I find a company in which I feel fulfiled,
@@ -20,12 +19,12 @@ In places you might not thought about.
 But for now...
 
 I have bright idea of being a leader of Web-development company, but
-as a starter, I don't expect to be someone big as I need lots of experience, so
-to me it's very important to have a possionate team leader from which I could learn.
+I do not expect to be someone big as I need lots of experience, so
+to me it's very important to have a possionate team leader from whom I could learn.
 
 Why I wish to be a leader?
 
-I'm just used to taking responsibilities and I **Love** being the one
+I'm used to taking responsibilities and I'm **thriled** of being the one
 that can at least try to turn things the way I see best.
 
 ### Socials
